@@ -1,0 +1,3 @@
+files:
+  - source: apps/module1/i18n/en-US.json
+    translation: apps/module1/i18n/
