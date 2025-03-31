@@ -1,7 +1,7 @@
 {
-  "locale": "en-US",
+  "locale": "en-GB",
   "translations": {
-    "header.title": "Header MODULE 1",
+    "header.title": "EN-GB Header MODULE 1",
     "subj": "Subj MODULE 1"
   }
 }
