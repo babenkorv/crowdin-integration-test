@@ -1,4 +1,3 @@
 files:
   - source: apps/module1/i18n/en-US.json
-    translation: /
-    multilingual: 1
+    translation: apps/module1/i18n/
