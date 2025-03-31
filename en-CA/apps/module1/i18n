@@ -2,6 +2,7 @@
   "locale": "en-GB",
   "translations": {
     "header.title": "EN-GB Header MODULE 1",
-    "subj": "Subj MODULE 1"
+    "subj": "Subj MODULE 1",
+    "text1": "EN GB - text1 MODULE 1"
   }
 }
